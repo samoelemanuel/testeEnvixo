@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="altura_toolbar">64dp</dimen>
+    <dimen name="margin_left_parent">10dp</dimen>
+    <dimen name="margin_lagura_parent">10dp</dimen>
+    <dimen name="txt_menu">27dp</dimen>
+    <dimen name="txt_ver_mais">22dp</dimen>
+    <dimen name="altura_recycle_home">364dp</dimen>
+</resources>

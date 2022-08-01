@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TesteEnvixo</string>
+    <string name="curso_online">CURSOS ONLINE</string>
+    <string name="txt_button_ver_mais">VER MAIS ►</string>
+    <string name="marketing_digital">MARKETING DIGITAL</string>
+    <string name="tutorial">TUTORIAL</string>
+    <string name="tutoriais">TUTORIAIS</string>
+    <string name="txt_footer">O Coursify.me é uma plataforma de ensino a distância,onde qualquer pessoa ou empresa pode construir seu EAD e vender cursos pela internet.</string>
+    <string name="txt_btn_footer">Quero conhecer a plataforma!</string>
+    <string name="ordenar_por">ORDENAR POR :</string>
+</resources>

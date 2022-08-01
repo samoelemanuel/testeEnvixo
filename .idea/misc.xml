@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/desenvolvimento/AndroidStudioProjects/TesteEnvixo/app/src/main/res/drawable/borda_btn_footer.xml" value="0.1455" />
+        <entry key="..\:/Users/desenvolvimento/AndroidStudioProjects/TesteEnvixo/app/src/main/res/drawable/borda_menu.xml" value="0.168" />
+        <entry key="..\:/Users/desenvolvimento/AndroidStudioProjects/TesteEnvixo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.168" />
+        <entry key="..\:/Users/desenvolvimento/AndroidStudioProjects/TesteEnvixo/app/src/main/res/font/bold.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/desenvolvimento/AndroidStudioProjects/TesteEnvixo/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/desenvolvimento/AndroidStudioProjects/TesteEnvixo/app/src/main/res/layout/activity_post_detalhe.xml" value="0.2" />
+        <entry key="..\:/Users/desenvolvimento/AndroidStudioProjects/TesteEnvixo/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/desenvolvimento/AndroidStudioProjects/TesteEnvixo/app/src/main/res/layout/item_categoria.xml" value="0.2" />
+        <entry key="..\:/Users/desenvolvimento/AndroidStudioProjects/TesteEnvixo/app/src/main/res/layout/item_curso_lista.xml" value="0.22" />
+        <entry key="..\:/Users/desenvolvimento/AndroidStudioProjects/TesteEnvixo/app/src/main/res/layout/toolbar.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
